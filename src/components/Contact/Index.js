@@ -79,10 +79,10 @@ function Contact() {
       </Row>
       <Row>
         <Col xs={12} sm={12} md={6}>
-          <p>Email: contact@company.com</p>
-          <p>Address: contact@company.com</p>
-          <p>Tel: contact@company.com</p>
-          <p>Fax: contact@company.com</p>
+          <p>Email: TeamFest@company.com</p>
+          <p>Address: TeamFest@company.com</p>
+          <p>Tel: 09123322311</p>
+          <p>Fax: 88888888888</p>
         </Col>
         <Col xs={12} sm={12} md={6}>
           <Form noValidate validated={validated} onSubmit={handleSubmit}>
@@ -103,7 +103,7 @@ function Contact() {
               <Form.Label>Title</Form.Label>
               <Form.Control
                 type="text"
-                placeholder="Nguyễn Văn Tèo"
+                placeholder="David Beckham"
                 required
                 onChange={handleTitleChange}
               />

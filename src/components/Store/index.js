@@ -5,6 +5,9 @@ import Storess from '../Store/Storess.json'
 
 
 function Store() {
+  const handleSub = () => {
+    alert("Thank you !!")
+  }
   return (
     <Container fluid="md" >
       <SlideShow />
@@ -20,9 +23,7 @@ function Store() {
             <Card.Text>
               {item.Detail}
             </Card.Text>
-            <a href='#'>
-                <button variant='primary'>Buy</button>
-            </a>
+                <button variant='primary' onClick={handleSub}>Buy</button>
           </Card.Body>
         </Card>
       </Col>

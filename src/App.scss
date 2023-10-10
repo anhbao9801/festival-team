@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Roboto&display=swap');
+
 *{
   margin: 0;
   padding: 0;
@@ -21,6 +22,9 @@ body{
  text-align: center;
 }
 
+.boximage{
+    transition: all 1s ease;
+}
 .boximage:hover{
   border-radius: 5px;
   -webkit-box-shadow: 5px 5px 5px rgba(50, 50, 50, 0.75);

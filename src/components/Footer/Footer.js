@@ -25,8 +25,9 @@ function Footer() {
       </div>
       <div className='wraper_div2'>
           <a href='/' className='navbar_header'> TeamFest</a>
-          <p>FOLLOW US ON</p>
+          <p>
           Welcome to the official website of Viet Nam National Authority . Visit our social media pages for more festival inspiration.
+          </p>
       </div>
     </div>
   )

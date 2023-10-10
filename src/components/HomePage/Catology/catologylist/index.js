@@ -46,9 +46,9 @@ function CatologyList() {
             <Card.Text>
               {item.DM}
             </Card.Text>
-            <Link to={`/detail/${item.id}`}>
+            <a href={`/detail/${item.id}`}>
                 <button variant='primary'>Detail</button>
-            </Link>
+            </a>
           </Card.Body>
         </Card>
       </Col>

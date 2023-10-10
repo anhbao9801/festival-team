@@ -2,6 +2,7 @@ import React from 'react'
 import './style.scss'
 
 function MainMenu() {
+  
   return (
     <nav className='align_center navbar'> 
       <div className='align_center'>
