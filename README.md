@@ -21,7 +21,7 @@ eProject published at: https://festival-team.vercel.app/
 
 ============================
 
-eProject video published at:
+eProject video published at: https://www.youtube.com/watch?v=NJ3v73kD4bU
 
 ============================
 
