@@ -11,6 +11,7 @@ Group members Name Student ID
                 Nguyễn Thái Bảo            Student1477476
                 Lê Trung Hoàng             Student1477201
                 Nguyễn Hoàng Minh          Student1470290
+                Huỳnh Nguyễn Thần Phong    Student1470278
 ============================
 
 eProject documentation at: https://github.com/anhbao9801/festival-team/tree/master/public/document
