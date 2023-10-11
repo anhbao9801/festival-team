@@ -13,7 +13,7 @@ Group members Name Student ID
                 Nguyễn Hoàng Minh          Student1470290
 ============================
 
-eProject documentation at: 
+eProject documentation at: https://github.com/anhbao9801/festival-team/tree/master/public/document
 
 ============================
 
