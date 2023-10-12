@@ -1,0 +1,91 @@
+@import "../../Style/Variable.scss";
+
+.navbar{
+    justify-content: space-between;
+    padding: 0 30px;
+    background-color: #fff;
+    
+}
+.navbar_header{
+    font-size: 50px;
+    margin: 20px;
+    font-family: 'Dancing Script', cursive;
+    color: orange;
+    text-decoration: none;
+}
+
+.navbar_form{
+    width: 400px;
+    height: 40px;
+    border: 1px solid #cdcdcd;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.navbar_search{
+    flex: 1;
+    height: 100%;
+    padding: 0 7px;
+    font-size: 15px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+}
+
+.search_button{
+    height: 100%;
+    padding: 0 10px;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(230, 222, 226);
+    color: #fff;
+    cursor: pointer;
+}
+
+.navbar_link{
+    font-size: 20px;
+}
+
+  .link {
+    margin: 20px;
+    font-size:17px;
+    text-decoration: none;
+    background-image: linear-gradient(
+      to right,
+      #54b3d6,
+      #54b3d6 50%,
+      #000 50%
+      
+    );
+    background-size: 200% 100%;
+    background-position: -100%;
+    display: inline-block;
+    padding: 5px 0;
+    position: relative;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .link:before{
+    content: '';
+    background: #54b3d6;
+    display: block;
+    position: absolute;
+    bottom: -3px;
+    left: 0;
+    width: 0;
+    height: 3px;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .link:hover {
+   background-position: 0;
+  }
+  
+  .link:hover::before{
+    width: 100%;
+  }
+
