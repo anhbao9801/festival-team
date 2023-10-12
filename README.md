@@ -18,7 +18,7 @@ eProject documentation at: https://github.com/anhbao9801/festival-team/tree/mast
 
 ============================
 
-eProject published at: https://vercel.com/nguyen-thai-baos-projects/festival-team-vstv
+eProject published at: https://festival-team-vstv.vercel.app/
 
 ============================
 
