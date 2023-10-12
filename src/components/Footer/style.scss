@@ -1,0 +1,47 @@
+.wraper_div{
+    display: flex;
+    height: 200px;
+    background-color:rgb(226, 219, 219);
+    a{
+        font-weight: normal;
+    }
+}
+
+.wraper_div1{
+    justify-content: center;
+    text-align: left;
+    display: flex;
+    width: 50%  ;
+    margin: 20px; 
+    font-size: 13px;
+    p{
+        font-size: 20px;    
+    }
+}
+
+.wraper_div2{
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+}
+.wraper_div11{
+    margin-left: 100px;
+}
+li {
+    list-style: none;
+}
+
+ul{
+    font-weight: bolder;
+    font-style: italic;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: orange;
+}
